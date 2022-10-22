@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+    background-color:cyan;
+}
+
+.header
+{
+    color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#Why
+{
+    color:whitesmoke;
+
+}
+
+h2
+{
+    font-size:large;
+}
+
+#btn_1
+{
+ color:whitesmoke;
+}
+
+
